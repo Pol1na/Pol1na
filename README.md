@@ -17,7 +17,7 @@
   </h1>
 </div>
 <div id='about' align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="600" height="300"/>
 </div>
 
 
