@@ -31,6 +31,7 @@ I am Junior Web-Developer from Russia.
 
 - :crossed_swords: I love participating in hackathons
 
+- :bookmark_tabs: <a href="http://pol1naq.pythonanywhere.com/">Resume here </a>
 
 
 ### :hammer_and_wrench: Languages and Tools :
