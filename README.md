@@ -27,11 +27,11 @@ I am Junior Web-Developer from Russia.
 
 - :books: I am currently studying to be a programmer in college.
 
-- :zap: In my free time, I try to learn something new
+- :zap: In my free time, I try to learn something new. I can write parsers, basic Django and now I'm taking an Automation QA course.
 
 - :crossed_swords: I love participating in hackathons
 
-- :bookmark_tabs: <a href="http://pol1naq.pythonanywhere.com/">Resume here </a>
+- :bookmark_tabs: <a href="http://pol1naq.pythonanywhere.com/">Resume here (is not available now) </a>
 
 
 ### :hammer_and_wrench: Languages and Tools :
