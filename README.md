@@ -23,7 +23,7 @@
 
 ### :woman_technologist: About Me :
 
-I am Junior Web-Developer from Russia. 
+I am Junior Python from Russia. 
 
 - :books: I am currently studying to be a programmer in college.
 
