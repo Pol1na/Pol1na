@@ -31,7 +31,7 @@ I am Junior Python from Russia.
 
 - :crossed_swords: I love participating in hackathons
 
-- :bookmark_tabs: <a href="http://pol1naq.pythonanywhere.com/">Resume here (is not available now) </a>
+- :bookmark_tabs: <a href="https://drive.google.com/file/d/1_7zpjj5luikD0X86euflKyy6X0RmoyVr/view?usp=sharing">Resume here </a>
 
 
 ### :hammer_and_wrench: Languages and Tools :
